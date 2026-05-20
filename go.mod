@@ -2,6 +2,8 @@ module github.com/Iristack/accesskey-manager
 
 go 1.24
 
+retract v1.0.0
+
 require (
 	github.com/gin-gonic/gin v1.10.1
 	github.com/redis/go-redis/v9 v9.18.0
